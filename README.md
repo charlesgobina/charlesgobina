@@ -83,14 +83,22 @@
 
 </td></tr></table>  
 
-<div style="display:grid; grid-template-columns: repeat(2, 50%);">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesgobina&hide_border=true&layout=compact" align="right" />
-  <img src="https://github-readme-stats.vercel.app/api?username=charlesgobina&show_icons=true&count_private=true&hide_border=true" align="left"/> 
-</div>
+<table style="width:100%">
+  <tr>
+    <td style="width:50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesgobina&hide_border=true&layout=compact" align="right" />
+    </td>
+    <td style="width:50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=charlesgobina&show_icons=true&count_private=true&hide_border=true" align="left"/> 
+    </td>
+  </tr>
+</table>
 
 <br/>  
 
 <br/>  
+
+
 
 ## Listening to on Spotify  
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=2rlf0th0owq4f5hhseh9at0vs&cover_image=true&theme=compact)  
