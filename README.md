@@ -74,7 +74,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesgobina&hide_border=true&layout=compact" align="right" />
     </td>
     <td style="width:50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=charlesgobina&show_icons=true&count_private=true&hide_border=true" align="left"/> 
+        <img src="https://github-readme-stats.vercel.app/api?username=charlesgobina&show_icons=true&count_private=true&hide_border=true" style="width:95%" align="left"/> 
     </td>
   </tr>
 </table>
