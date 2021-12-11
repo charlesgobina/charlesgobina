@@ -6,7 +6,7 @@
 
 
 
-### About me  
+## About me  
 - 🔭 I’m currently a [Micronaut](https://www.microverse.org/)  
   
 
@@ -44,7 +44,7 @@
 </div> 
 
 
-## My Skill Set  
+## Languages and technologies  
 <table width="100%">
   <tr>
     <td style="width:33.3%">
@@ -84,8 +84,7 @@
 
 
 ## Listening to on Spotify  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2rlf0th0owq4f5hhseh9at0vs&cover_image=true&theme=compact" /></div>  
-<br/>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2rlf0th0owq4f5hhseh9at0vs&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" /></div>  <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=charlesgobina&&style=flat-square" align="center" />
