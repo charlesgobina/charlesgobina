@@ -21,7 +21,7 @@
 
 <br/>  
 
-## Connect with me  
+## Let's connect 
 <div align="center">
 <a href="https://github.com/charlesgobina" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -81,13 +81,10 @@
 
 <br/>  
 
-<br/>  
-
 
 
 ## Listening to on Spotify  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=2rlf0th0owq4f5hhseh9at0vs&cover_image=true&theme=compact)  
-
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2rlf0th0owq4f5hhseh9at0vs&cover_image=true&theme=compact" /></div>  
 <br/>  
 
 <div align="center">
