@@ -10,10 +10,10 @@
 - 🔭 I’m currently a [Micronaut](https://www.microverse.org/)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning JavaScript and related web technologies  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything tech 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
