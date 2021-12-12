@@ -1,7 +1,7 @@
 
 <div align="center">
-  <img src="assets/images/dope.png" width="100%" alt="hero image">
-</div>  
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>   
   
 
 
